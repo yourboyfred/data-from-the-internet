@@ -1,1 +1,8 @@
-# Data-from-the-internet
+## Project
+### App dev 
+
+
+###AUTHORS
+(https://github.com/yourboyfred)
+(https://github.com/jaysonalfie)
+
